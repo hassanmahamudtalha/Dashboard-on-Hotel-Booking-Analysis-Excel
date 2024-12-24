@@ -22,6 +22,9 @@ The Hotel Booking dataset details reservations for Resort and City hotels across
 - Cleaning data - Excel
 - Analysis data - Excel
 - visualize data - Excel
+
+
+  
 ![Hotel boking dashboard xlsx](https://github.com/user-attachments/assets/a4a9d152-c971-4d66-a73b-7fd09bb9a105)
 
 
